@@ -1,0 +1,23 @@
+{
+  "id": "49482807-6230-4a51-84ee-f7855b0cddb9",
+  "name": "LAGCAASExport",
+  "publisher": "IBIZ-LAG",
+  "brief": "",
+  "description": "Export TE POS",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "runtime": "2.2"
+}
